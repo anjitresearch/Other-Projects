@@ -1,4 +1,5 @@
 # Hack Summit 2025
+
 What’s inside
 
 services/api – FastAPI scoring service (/score, /health)
